@@ -16328,6 +16328,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\IFSP\\Desktop\\SP3047458\\ExemploAspNetMvc\\Views\\Home\\PrimeiraAction.cshtml",
+      "TargetPath": "Views\\Home\\PrimeiraAction.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\IFSP\\Desktop\\SP3047458\\ExemploAspNetMvc\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"

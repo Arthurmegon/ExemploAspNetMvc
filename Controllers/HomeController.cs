@@ -23,9 +23,9 @@ public class HomeController : Controller
         return View();
     }
 
-    public string PrimeiraAction()
+    public IActionResult PrimeiraAction()
     {
-        return "Minha primeira action";
+        return View();
     }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
